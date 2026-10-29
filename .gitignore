@@ -1,0 +1,6 @@
+.venv/
+.secrets/
+__pycache__/
+*.pyc
+PRIVATE-INSTRUCTIONS.md
+.DS_Store
